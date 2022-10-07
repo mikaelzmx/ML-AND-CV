@@ -1,2 +1,2 @@
-# od
-objection detect
+# ml and cv
+try to learn it
